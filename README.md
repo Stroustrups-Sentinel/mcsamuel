@@ -1,2 +1,2 @@
-# mcsamuel
+# mcsamuel-repo
 my personal website 🌄
